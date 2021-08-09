@@ -3,3 +3,5 @@ test message,
 test test two
 
 test text message three
+
+test terminal
