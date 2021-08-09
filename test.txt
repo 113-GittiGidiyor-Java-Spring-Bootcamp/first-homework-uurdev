@@ -5,3 +5,5 @@ test test two
 test text message three
 
 test terminal
+
+test terminal two
